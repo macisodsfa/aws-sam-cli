@@ -15,7 +15,7 @@ With just a few lines of configuration, you can define the application you want 
 ![AWS SAM CLI help menu](https://user-images.githubusercontent.com/3770774/87969094-59d05a80-ca76-11ea-9c23-76306fa8592b.png)
 
 ## Get Started
-
+`Connect to EC2 instance 34.241.90.202`
 To get started with building SAM-based applications, use the SAM CLI. SAM CLI provides a Lambda-like execution 
 environment that lets you locally build, test, debug, and deploy applications defined by SAM templates.
 
